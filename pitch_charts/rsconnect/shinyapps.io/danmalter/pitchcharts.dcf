@@ -1,0 +1,12 @@
+name: pitchcharts
+title: pitchcharts
+username:
+account: danmalter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3601011
+bundleId: 4196479
+url: https://danmalter.shinyapps.io/pitchcharts/
+when: 1612800026.02773
+asMultiple: FALSE
+asStatic: FALSE
